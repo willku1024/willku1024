@@ -1,4 +1,3 @@
-<h1 align="center">Hey, I'm Willku 👋</h1>
 <h3 align="center">Building AI, Systems, and Realtime Experiences</h3>
 
 <p align="center">
