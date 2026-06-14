@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=willku1024&style=for-the-badge&color=blueviolet"/>
-  <img src="https://img.shields.io/github/followers/willku1024?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/github/stars/willku1024?style=for-the-badge&logo=github"/>
 </p>
 
