@@ -24,10 +24,7 @@
 
 ---
 
-## 🔥 Current Focus
+## 📈 GitHub Stats
 
-```text
-- Speech / voice products
-- Rust backend infrastructure
-- Systems + AI crossover projects
-```
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=willku1024&show_icons=true&theme=radical)
+
