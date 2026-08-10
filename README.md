@@ -20,10 +20,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=rust,python,cpp,c,go,ts,js,react,vue,nodejs,docker,linux,git,github,postgres,redis,pytorch,django,nginx,html,windows,flutter,bash,mysql" />
 </p>
-
----
-
-## 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=willku1024&show_icons=true&theme=radical)
-
